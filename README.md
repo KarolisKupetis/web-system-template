@@ -7,8 +7,8 @@
 ## Entity definition
 - [ ] Task
 - [ ] Entity should have 3 mandatory attributes:
-    - [ ] ID - number
-    - [ ] created_at
+    - [ ] ID - number (integer)
+    - [ ] created_at - date 
 - [ ] Custom attributes
     - [ ] created_by_id - id that respresent user.(unique integer)
     - [ ] created_by_request_id - id that identifies which request created that task.(string)
