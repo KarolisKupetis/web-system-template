@@ -2,11 +2,11 @@
 - [ ] Wunderlist Task API
 
 ## Description
-- [ ] API made for planning your work. Create lists, tasks, reminders.
-
+-  API made for planning your work. Create lists, tasks, reminders.
+-  Using OAuth2 for accessing access_token and user authorization.
 ## Entity definition
 -  Task
--  Entity should have 3 mandatory attributes:
+-  Mandatory attributes
     -  ID - entityt indentifying number
         -Integer. 
         -Range up to 1000000.
